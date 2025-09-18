@@ -14,7 +14,7 @@ namespace ConsoleBasedProject
             Console.WriteLine("-------------------------");
 
             //input angka pertama
-            Console.Write("Masukkan Angka Pertama: ");
+            Console.Write("Masukkan Angka Pertamaaa: ");
             double num1 = Convert.ToDouble(Console.ReadLine());
 
             //input angka kedua
