@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ConsoleBasedProject.BilanganGanjil</StartupObject>
+    <StartupObject>ConsoleBasedProject.DaftarSiswa</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="BilanganGanjil.cs" />
     <Compile Include="DaftarBilanganGenap.cs" />
+    <Compile Include="DaftarSiswa.cs" />
     <Compile Include="dataUmur.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
