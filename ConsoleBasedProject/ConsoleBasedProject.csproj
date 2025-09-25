@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ConsoleBasedProject.dataUmur</StartupObject>
+    <StartupObject>ConsoleBasedProject.BilanganGanjil</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,9 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BilanganGanjil.cs" />
+    <Compile Include="DaftarBilanganGenap.cs" />
     <Compile Include="dataUmur.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="tabelPerkalian.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

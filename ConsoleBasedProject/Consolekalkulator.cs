@@ -10,7 +10,7 @@ namespace ConsoleBasedProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Simple Console Calculator");
+            //Console.WriteLine("Simple Console Calculator");
             Console.WriteLine("-------------------------");
 
             //input angka pertama
